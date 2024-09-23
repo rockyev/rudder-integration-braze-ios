@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "braze-swift-sdk",
+        "repositoryURL": "https://github.com/braze-inc/braze-swift-sdk",
+        "state": {
+          "branch": null,
+          "revision": "0dd962407eacf857b3555c4c3d948adf3544b0fc",
+          "version": "9.3.1"
+        }
+      },
+      {
+        "package": "RSCrashReporter",
+        "repositoryURL": "https://github.com/rudderlabs/crash-reporter-ios",
+        "state": {
+          "branch": null,
+          "revision": "ee563535b64d9d5feacd0fa243663b2658033a19",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "MetricsReporter",
+        "repositoryURL": "https://github.com/rudderlabs/metrics-reporter-ios",
+        "state": {
+          "branch": null,
+          "revision": "e307fa37c6c2d2cccf787d73b5b4b5bc3f650435",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "RudderKit",
+        "repositoryURL": "https://github.com/rudderlabs/rudder-ios-kit",
+        "state": {
+          "branch": null,
+          "revision": "8a557a80cc1b0e0bc948c2b17fe0fd3809bcfd61",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "Rudder",
+        "repositoryURL": "https://github.com/rudderlabs/rudder-sdk-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "28fdbdebf170c685e6100f593557b9d2a77278d6",
+          "version": "1.29.0"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "8a1be70a625683bc04d6903e2935bf23f3c6d609",
+          "version": "5.19.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
