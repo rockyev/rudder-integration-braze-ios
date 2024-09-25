@@ -1,0 +1,4 @@
+module Rudder {
+    header "Rudder/Rudder.h"
+    export *
+}
